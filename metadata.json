@@ -1,0 +1,8 @@
+{
+  "name": "LoadDoc - Rate Confirmation AI Extractor",
+  "description": "Logistics rate confirmation document extraction powered by Gemini 3.8 Flash. Instant analysis of load numbers, broker and carrier contacts, pricing, route itineraries, and special instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
